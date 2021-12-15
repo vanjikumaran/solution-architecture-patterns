@@ -80,6 +80,9 @@ This repository contains solution architecture patterns which can be reused to b
 - Innovation Driven Enterprise Platform Architecture
 [Innovation Driven Enterprise Platform Architecture](vendor-neutral/Innovation-Driven-Enterprise-Platform-Architecture.md)
 
+- Digital Integration Hub Pattern
+[Digital Integration Hub Pattern](vendor-neutral/Digital-Integration-Hub-Pattern.md)
+
 ## Industry specific architecture patterns
 These patterns are specific to a business domain or an industry. Most of these patterns can be considered as reference archtiectures.
 
