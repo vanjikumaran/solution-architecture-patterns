@@ -77,3 +77,6 @@ This directory contains the architecture patterns are generic and vendor indepen
 
 - Innovation Driven Enterprise Platform Architecture
 [Innovation Driven Enterprise Platform Architecture](Innovation-Driven-Enterprise-Platform-Architecture.md)
+
+- Digital Integration Hub Pattern
+[Digital Integration Hub Pattern](Digital-Integration-Hub-Pattern.md)
